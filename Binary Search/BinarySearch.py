@@ -2,8 +2,26 @@
 # O(log(n)) - time complexity.
 # Do not manipluate the array as it causes more space complexity.
 # Use iterators to easily divide the array and update them at each step.
-
 # For me iterative was much easier to remember/ implement than recursive search.
+
+"""
+PseudoCode:
+function():
+    assign value of left iterator as start
+    assign value of right iterator as end
+    run until the list ends:
+        calculate middle index [formula: (start + end) //2]
+        check if value not find: 
+            return False
+        check if value greater than middle index: ie right
+            update start to middle +1
+            update end value to new end
+        check if value smaller than middle indes: ie left
+            update end value to middle
+            update start value to new start
+        check else:
+            return True, middle (middle is the index of value)
+"""
 
 
 def recursive(array, value):
