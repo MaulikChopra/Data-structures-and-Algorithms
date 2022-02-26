@@ -1,5 +1,10 @@
 # Binary Search recursive.
 # O(log(n)) - time complexity.
+# Do not manipluate the array as it causes more space complexity.
+# Use iterators to easily divide the array and update them at each step.
+
+# For me iterative was much easier to remember/ implement than recursive search.
+
 
 def recursive(array, value):
     return bs(array, value, 0, len(array))
@@ -43,7 +48,8 @@ def iterative(array, value):
 # DRIVER CODE
 if __name__ == "__main__":
     arr = [i for i in range(1, 51)]
-    find = 25
+    # arr2 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    find = 6
     print("(bool, index)")
     print(recursive(arr, find))
     print("-------------------")

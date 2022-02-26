@@ -7,7 +7,7 @@
 <p>
 <ol>
     <li>
-    <b>Search Algorithm</b>
+    <b>Binary Search Algorithm</b>
         <ul>
             <li>Binary Search Recursive</li>
             <li>Binary Search Iterative</li>
