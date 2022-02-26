@@ -5,18 +5,19 @@
 ## PROGRESS CHECKER.
 
 <p>
-<ul>
+<ol>
     <li>
     <b>Search Algorithm</b>
-        <ol>
+        <ul>
             <li>Binary Search Recursive</li>
-        </ol>
+            <li>Binary Search Iterative</li>
+        </ul>
     </li>
     <li>
     <b>Linked List</b>
-        <ol>
+        <ul>
             <li>In progress</li>
-        </ol>
+        </ul>
     </li>
-</ul>
+</ol>
 </p>
