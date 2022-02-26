@@ -8,7 +8,7 @@
 <ol>
     <li>
     <b>Binary Search Algorithm</b> 
-    <a href="https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e" target="_blank">
+    <a href="https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e">
     Medium Tutorial</a>
        <ul>
             <li>Binary Search Recursive</li>
