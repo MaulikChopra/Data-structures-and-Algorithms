@@ -7,7 +7,7 @@
 <p>
 <ol>
     <li>
-    <b>Binary Search Algorithm</b> [Medium Tutorial](https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e)
+    <b>Binary Search Algorithm</b> [Medium Tutorial]  (https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e)
        <ul>
             <li>Binary Search Recursive</li>
             <li>Binary Search Iterative</li>
