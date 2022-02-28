@@ -65,10 +65,11 @@ def iterative(array, value):
 
 # DRIVER CODE
 if __name__ == "__main__":
-    arr = [i for i in range(1, 51)]
+    arr = [i for i in range(0, 51)]
     # arr2 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-    find = 6
+    find = 40
     print("(bool, index)")
     print(recursive(arr, find))
     print("-------------------")
     print(iterative(arr, find))
+    #print(arr[iterative(arr, find)[1]])
