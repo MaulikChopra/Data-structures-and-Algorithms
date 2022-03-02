@@ -28,14 +28,14 @@
             <li>Reverse a string using stack [easy]:
             <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
             ,
-            <a href="stacks and queues/Q1 stack.py">
-            Q1 stack.py</a>
+            <a href="stacks and queues/stack Q1.py">
+            stack Q1.py</a>
             </li>
             <li>Bracker pair checker [moderate]:
             <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
             ,
-            <a href="stacks and queues/Q2 stack.py">
-            Q2 stack.py</a>
+            <a href="stacks and queues/stack Q2.py">
+            stack Q2.py</a>
             </li>
         </ul>
     </li>
