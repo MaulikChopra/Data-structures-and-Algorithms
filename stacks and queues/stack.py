@@ -21,15 +21,12 @@ class stack:
         return len(self.array) == 0
 
     def size(self):
-        try:
-            return len(self.array)
-        except IndexError:
-            pass
+        return len(self.array)
 
     def __repr__(self):
-        string = 'First -> '
+        string = 'First->'
         for i in self.array:
-            string += str(i) + "-> "
+            string += str(i) + "->"
         string += "Last"
         return string
 
