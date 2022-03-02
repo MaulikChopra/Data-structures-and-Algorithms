@@ -21,7 +21,7 @@
     <b>Stacks</b>
         <ul>
             <li>Stack Implementation:
-            <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
+            <a href="https://medium.com/@maulikchopra/how-to-implement-a-stack-class-and-deque-python-data-structures-and-algorithm-5aa601f2d063">Medium Tutorial</a>
             ,
             <a href="stacks and queues/stack.py">stack.py</a>
             </li>
