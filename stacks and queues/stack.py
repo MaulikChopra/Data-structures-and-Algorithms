@@ -12,13 +12,19 @@ class stack:
         return self.array.pop()
 
     def peek(self):
-        return self.array[-1]
+        try:
+            return self.array[-1]
+        except IndexError:
+            pass
 
     def is_empty(self):
         return len(self.array) == 0
 
     def size(self):
-        return len(self.array)
+        try:
+            return len(self.array)
+        except IndexError:
+            pass
 
     def __repr__(self):
         string = 'First -> '
@@ -32,9 +38,10 @@ if __name__ == "__main__":
     stack = stack()
     for i in range(0, 11):
         stack.push(i)
-    stack.peek()
+    print(stack.peek())
     stack.is_empty()
     stack.size()
     print(stack)
     stack.pop()
+    print(stack.peek())
     print(stack)
