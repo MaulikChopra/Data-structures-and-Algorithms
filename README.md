@@ -46,19 +46,19 @@
             <li>Queue Implementation:
             <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
             ,
-            <a href="stacks and queues/stack.py">stack.py</a>
+            <a href="stacks and queues/queue.py">stack.py</a>
             </li>
-            <li>fill:
+            <li>food ordering with multithreading:
             <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
             ,
-            <a href="stacks and queues/Q1 stack.py">
-            Q1 stack.py</a>
+            <a href="stacks and queues/queue Q1.py">
+            queue Q1.py</a>
             </li>
-            <li>fill:
+            <li>Binary Sequence:
             <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
             ,
-            <a href="stacks and queues/Q2 stack.py">
-            Q2 stack.py</a>
+            <a href="stacks and queues/queue Q2.py">
+            queue Q2.py</a>
             </li>
         </ul>
     </li>

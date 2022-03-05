@@ -7,7 +7,7 @@ So that pop removes the first element unlink stack.
 """
 
 
-class queue:
+class Queue:
     def __init__(self):
         self.array = collections.deque()
 
@@ -23,16 +23,19 @@ class queue:
     def size(self):
         return len(self.array)
 
+    def front(self):
+        return self.array[-1]
+
     def __repr__(self):
-        string = 'Last->'
+        string = '|Last|->'
         for i in self.array:
             string += str(i) + "->"
-        string += "First"
+        string += "|First|"
         return string
 
 
 if __name__ == "__main__":
-    q = queue()
+    q = Queue()
     for i in range(0, 11):
         q.enqueue(i)
     print(q)
