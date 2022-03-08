@@ -26,13 +26,11 @@
             <a href="stacks and queues/stack.py">stack.py</a>
             </li>
             <li>Reverse a string using stack [easy]:
-            <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
-            ,
             <a href="stacks and queues/stack Q1.py">
             stack Q1.py</a>
             </li>
             <li>Bracker pair checker [moderate]:
-            <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
+            <a href="https://medium.com/@maulikchopra/check-if-the-parenthesis-brackets-in-a-string-are-balanced-or-not-python-and-stack-data-structures-33ed6ae58c00">Medium Tutorial</a>
             ,
             <a href="stacks and queues/stack Q2.py">
             stack Q2.py</a>
@@ -44,13 +42,11 @@
     <b>Queues</b>
         <ul>
             <li>Queue Implementation:
-            <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
+            <a href="https://medium.com/@maulikchopra/how-to-implement-a-queue-class-using-deque-python-data-structures-and-algorithm-37531e1ff7e3">Medium Tutorial</a>
             ,
             <a href="stacks and queues/queue.py">stack.py</a>
             </li>
             <li>food ordering with multithreading:
-            <a href="https://medium.com/@maulikchopra">Medium Tutorial</a>
-            ,
             <a href="stacks and queues/queue Q1.py">
             queue Q1.py</a>
             </li>

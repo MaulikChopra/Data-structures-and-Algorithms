@@ -64,15 +64,15 @@ for index, value in enumerate(input):
         print("Failed,", tempbool)
 
 """
-Pseudo code:
+
 accounting the corner cases for this puzzle.
 Corner cases when the test should Fail ie: no balance
 1. there are extra right brackets 
 2. there are extra left bracket 
 3. there is single bracket pair unbalanced 
 
-NOW WRITING THE SUDO CODE:
-def match_helper_function(self, rightbracket, leftbracket):
+NOW WRITING THE PSEUDO CODE:
+def match(self, rightbracket, leftbracket):
     create a dict with all the matches
     check if the rightbracket matches with the leftbracket using the dict
     return bool
